@@ -3,9 +3,15 @@
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -->
 
+
+<hr></hr>
+
+## What you will find here 
+
 <div align="center">
-  <img src="https://github.com/paulgg-code/paulgg-code/blob/master/images/cybersecurity.gif" />
-  <img src="https://github.com/paulgg-code/paulgg-code/blob/master/images/ethereum.gif" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif" width="310px" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/ethereum.gif" width="310px" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/rf.gif" width="310px" />
 </div>
 
 <hr></hr>
