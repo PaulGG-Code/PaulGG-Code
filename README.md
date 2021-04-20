@@ -3,6 +3,8 @@
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -->
 
+<hr></hr>
+
 <div align="center" width="50">
   
 ## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer. 
@@ -45,9 +47,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr></hr>
+
 <div align="center" width="50">
   
   **Languages and Tools:**
+  
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -70,6 +75,8 @@ Here are some ideas to get you started:
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
 </div>
+
+<hr></hr>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/paul-gedeon/">
