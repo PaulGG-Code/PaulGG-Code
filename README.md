@@ -3,6 +3,11 @@
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -->
 
+<div align="center">
+  <img src="https://github.com/paulgg-code/paulgg-code/blob/master/images/cybersecurity.gif" />
+  <img src="https://github.com/paulgg-code/paulgg-code/blob/master/images/ethereum.gif" />
+</div>
+
 <hr></hr>
 
 <div align="center" width="50">
@@ -73,6 +78,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=calm&bg_color=00000000)
   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulgg-code&theme=github)
 
 </div>
 
