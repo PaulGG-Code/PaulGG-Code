@@ -24,23 +24,27 @@
 
 "There is no power for change greater than a community discovering what it cares about"(Margaret J. Wheatley)
 
-Why Technology?
+Why Technology? 💻
 ----------------
 When Technology is used ethically, there is nothing more powerfull then a human with a machine. 
 
 Why CyberSecurity?
 ------------------
-I love building the future while protecting the unseen. 
+I love building the future while protecting the unseen. 👨‍💻 
 
-Why Internet Of Things?
+Why Internet Of Things? 
 -----------------------
-In the future we see the world as smart as it can be. 
+Many of us, see a smart future. 🏙
 
 Why Blockchain?
 ---------------
-There is nothing is more valuable then your financial lifecycle.
+There is nothing is more valuable then your financial lifecycle. ⛓
 
 Today blockchain give use the possiblity to manage ourself of financial life. As a DeFi Lover, I would say HODL! 
+
+Why Humanity?
+-------------
+Simply to one day, visit Mars 🚀
 
 </div>
 
