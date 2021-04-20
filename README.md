@@ -42,7 +42,7 @@ There is nothing is more valuable then your financial lifecycle. ⛓
 
 Today blockchain give use the possiblity to manage ourself of financial life. As a DeFi Lover, I would say HODL! 
 
-Why Humanity?
+Why Open Source?
 -------------
 Simply to one day, visit Mars 🚀
 
