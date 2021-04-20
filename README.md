@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif" width="300px" />
   <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/ethereum.gif" width="300px" />
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/rf.gif" width="300px" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/rf.gif" width="500px" />
 </div>
 
 <hr></hr>
