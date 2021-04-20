@@ -3,6 +3,8 @@
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -->
 
+<div align="center" width="50">
+  
 ## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer. 
 
 🗣 Open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -27,6 +29,7 @@ There is nothing is more valuable then your financial lifecycle.
 
 Today blockchain give use the possiblity to manage ourself of financial life. As a DeFi Lover, I would say HODL! 
 
+</div>
 
 <!--
 **PaulGG-Code/PaulGG-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
