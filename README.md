@@ -131,19 +131,20 @@ Here are some ideas to get you started:
 <img alt="Cyberawareness's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=paulgg-code&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/paulgg-code" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/paulgg-code" />
 </a>
+<code><img src="https://img.shields.io/badge/-C++-94h675?style=flat-square&logo=C%2B%2B&logoColor=white%22"></code>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=calm&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=gotham&bg_color=00000000)
   
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulgg-code&theme=github)
-
+</p>
 </div>
 
 <hr></hr>
 
-  
+
 
 
 <p align="left">
