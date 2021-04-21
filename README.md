@@ -69,10 +69,10 @@ Here are some ideas to get you started:
   <br/>  
 
 
-## My Skill Set  
+## _*Languages and Tools:*_
 <table><tr><td valign="top" width="25%">
    
-### Backend  
+### _Backend_
 <div align="center">  
   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="50" />  
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="50" />
 </div></td><td valign="top" width="25%">
   
-### DevOps  
+### _DevOps_  
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50" />  
@@ -93,14 +93,14 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ipfs/ipfs.png" alt="IPFS" height="50" />
 </div></td><td valign="top" width="25%">
 
-### Frontend  
+### _Frontend_  
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="50" /> 
 </div></td><td valign="top" width="25%">
   
-### Technologies
+### _Technologies_
 <div align="center">
 
 <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/987/333/png-clipart-bluetooth-bluetooth.png" alt="Btle" height="50" />  
