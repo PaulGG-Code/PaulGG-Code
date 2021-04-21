@@ -66,8 +66,59 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
   
-  **Languages and Tools:**
+  <br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="25%">
+   
+### Backend  
+<div align="center">  
   
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="50" /> 
+<img style="margin: 10px"  src="https://e7.pngegg.com/pngimages/911/601/png-clipart-ethereum-cryptocurrency-blockchain-logo-eos-io-crypto-miscellaneous-angle.png" alt="Solidity" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/trufflesuite/truffle-core/master/assets/logo.png" alt="Truffle" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="50" />
+</div></td><td valign="top" width="25%">
+  
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="Npm" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ipfs/ipfs.png" alt="IPFS" height="50" />
+</div></td><td valign="top" width="25%">
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="50" /> 
+</div></td><td valign="top" width="25%">
+  
+### Technologies
+<div align="center">
+
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/987/333/png-clipart-bluetooth-bluetooth.png" alt="Btle" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/452/zigbee.png" alt="Zigbee" height="50" />  
+<img style="margin: 10px" src="https://www.pngjoy.com/pngm/335/6273764_nfc-logo-nfc-logo-png-transparent-transparent-png.png" alt="NFC" height="50" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/223/960/png-clipart-radio-frequency-identification-computer-icons-radiofrequency-identification-rim-share-icon.png" alt="RF" height="50" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/410/408/png-clipart-graphics-logo-website-development-web-design-world-wide-web-web-design-blue-web-design.png" alt="Web" height="50" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/464/597/png-clipart-logo-cisco-systems-router-network-switch-packet-tracer-logo-hmi-emblem-text-thumbnail.png" alt="Cisco" height="50" />
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/665/467/png-clipart-json-rpc-remote-procedure-call-data-iot-icon-text-logo.png" alt="IoT" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_WiFi.svg/1280px-Logo_WiFi.svg.png" alt="Wifi" height="50" />
+<img style="margin: 10px" src="https://www.ipi-ecoles.com/wp-content/uploads/2018/05/blockchain.png" alt="Blockchain" height="50" />
+
+</div></td></tr></table> 
+
+<br/>
+<hr></hr>
+  
+<!--  **Languages and Tools:**
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -76,9 +127,6 @@ Here are some ideas to get you started:
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-
-<!--
 <a  href="https://github.com/paulgg-code"> 
 <img alt="Cyberawareness's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=paulgg-code&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/paulgg-code" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/paulgg-code" />
@@ -94,6 +142,9 @@ Here are some ideas to get you started:
 </div>
 
 <hr></hr>
+
+  
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/paul-gedeon/">
