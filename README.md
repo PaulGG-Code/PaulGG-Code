@@ -1,3 +1,4 @@
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </br>
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -6,7 +7,7 @@
 
 <hr></hr>
 
-## What you will find here 
+## What you will find here  
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif" width="300px" />
@@ -18,8 +19,9 @@
 
 <div align="center" width="50">
   
-## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer. 
+## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer.   <img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box">
 
+  
 🗣 Open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 "There is no power for change greater than a community discovering what it cares about"(Margaret J. Wheatley)
@@ -68,7 +70,6 @@ Here are some ideas to get you started:
   
   <br/>  
 
-
 ## _*Languages and Tools:*_
 <table><tr><td valign="top" width="25%">
    
@@ -115,7 +116,11 @@ Here are some ideas to get you started:
 
 </div></td></tr></table> 
 
+  
 <br/>
+ 
+
+  
 <hr></hr>
   
 <!--  **Languages and Tools:**
