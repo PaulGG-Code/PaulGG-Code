@@ -1,4 +1,4 @@
-
+![Profile views](https://gpvc.arturio.dev/paulgg-code)
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </br>
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -19,7 +19,7 @@
 
 <div align="center" width="50">
   
-## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer.    <img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"> ![Profile views](https://gpvc.arturio.dev/paulgg-code)
+## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer.    <img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"> 
 
   
 🗣 Open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
