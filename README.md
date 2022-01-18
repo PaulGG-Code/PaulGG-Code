@@ -1,9 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/paulgg-code)
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</br>
-<!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
--->
-
+![Profile views](https://gpvc.arturio.dev/paulgg-code) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <hr></hr>
 
@@ -143,7 +138,7 @@ Here are some ideas to get you started:
   
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulgg-code&theme=github)
+<!--![Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulgg-code&theme=github) -->
 </p>
 </div>
 
@@ -162,7 +157,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCmosf_YwWclnsUEnHaCk4XA">
   <img align="left" alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
-<a href="https://www.cyberawareness.xyz">
-  <img align="left" alt="CyberAwareness" title="CyberAwareness" heigh="32" width="32" src="https://mmheadlines.org/wp-content/uploads/formidable/17/cybersecbadge.png">
+<!-- <a href="https://www.cyberawareness.xyz">
+  <img align="left" alt="CyberAwareness" title="CyberAwareness" heigh="32" width="32" src="https://mmheadlines.org/wp-content/uploads/formidable/17/cybersecbadge.png"> -->
 </p>
   
