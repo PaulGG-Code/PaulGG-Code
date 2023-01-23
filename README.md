@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/paulgg-code) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"></img></a>
+
 <hr></hr>
 
 ## What you will find here  
