@@ -154,7 +154,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/paul-gedeon/">
   <img align="left" alt="LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/io_blockchain">
+<a href="https://twitter.com/0xedeon">
   <img align="left" alt="twitter" width="32px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg"
 </a>       
 <a href="https://www.youtube.com/channel/UCmosf_YwWclnsUEnHaCk4XA">
