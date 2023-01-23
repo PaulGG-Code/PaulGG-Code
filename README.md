@@ -15,9 +15,9 @@
 
 <div align="center" width="50">
   
-# Cyberawareness
+# Whoami?
 
-Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain enthusiast. I am passionate about using technology ethically and believe in the power of collaboration and knowledge sharing through open-source.
+A Cybersecurity Engineer and Blockchain enthusiast. Passionate about using technology ethically and believe in the power of collaboration and knowledge sharing through open-source.
 
 As a [Hack The Box](https://www.hackthebox.eu/) enthusiast, I am committed to constantly learning and growing as a cybersecurity professional. I am also an open-source enthusiast and maintainer, as I have learned a lot from the community and believe in its potential to drive positive change.
 
