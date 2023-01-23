@@ -5,9 +5,9 @@
 ## What you will find here  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif" width="300px" />
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/ethereum.gif" width="300px" />
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/rf.gif" width="500px" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/eth.png" width="300px" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/code.png" width="300px" />
+  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/mars.png" width="500px" />
 </div>
 
 
