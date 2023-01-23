@@ -13,7 +13,7 @@
 
 <hr></hr>
 
-<div align="center" width="50">
+<div align="justify" width="50">
   
 # Whoami?
 
