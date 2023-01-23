@@ -73,8 +73,10 @@ Here are some ideas to get you started:
    
 ### _Backend_
 <div align="center">  
-  
+
+<!--  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="50" />  
+
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="50" /> 
 <img style="margin: 10px"  src="https://e7.pngegg.com/pngimages/911/601/png-clipart-ethereum-cryptocurrency-blockchain-logo-eos-io-crypto-miscellaneous-angle.png" alt="Solidity" height="50" />
@@ -111,7 +113,44 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/665/467/png-clipart-json-rpc-remote-procedure-call-data-iot-icon-text-logo.png" alt="IoT" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_WiFi.svg/1280px-Logo_WiFi.svg.png" alt="Wifi" height="50" />
 <img style="margin: 10px" src="https://www.ipi-ecoles.com/wp-content/uploads/2018/05/blockchain.png" alt="Blockchain" height="50" />
+-->
+  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/linux.svg" alt="Linux" height="50" />  
 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="50" /> 
+<img style="margin: 10px"  src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/ethereum.svg" alt="Solidity" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/trufflesuite/truffle-core/master/assets/logo.png" alt="Truffle" height="50" />
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/cpp.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/mysql.svg" alt="MySQL" height="50" />
+</div></td><td valign="top" width="25%">
+  
+### _DevOps_  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/linux.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/github.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/bash.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/npm.svg" alt="Npm" height="50" />
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/ipfs.svg" alt="IPFS" height="50" />
+</div></td><td valign="top" width="25%">
+
+### _Frontend_  
+<div align="center">  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="50" /> 
+</div></td><td valign="top" width="25%">
+  
+### _Technologies_
+<div align="center">
+
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/bluetooth.svg" alt="Btle" height="50" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/452/zigbee.png" alt="Zigbee" height="50" />  
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/nfc.svg" alt="NFC" height="50" />  
+<img style="margin: 10px" src="https://e7.pngegg.com/pngimages/223/960/png-clipart-radio-frequency-identification-computer-icons-radiofrequency-identification-rim-share-icon.png" alt="RF" height="50" />   
+<img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/cisco.svg" alt="Cisco" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_WiFi.svg/1280px-Logo_WiFi.svg.png" alt="Wifi" height="50" />
+  
 </div></td></tr></table> 
 
   
@@ -136,6 +175,8 @@ Here are some ideas to get you started:
 </a>
 <code><img src="https://img.shields.io/badge/-C++-94h675?style=flat-square&logo=C%2B%2B&logoColor=white%22"></code>
 -->
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=gotham&bg_color=00000000)
   
