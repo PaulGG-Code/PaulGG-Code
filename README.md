@@ -15,34 +15,36 @@
 
 <div align="center" width="50">
   
-## Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain believer.   <a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"></img></a>
+# Cyberawareness
 
+Hi, I'm Cyberawareness, a Cybersecurity Engineer and Blockchain enthusiast. I am passionate about using technology ethically and believe in the power of collaboration and knowledge sharing through open-source.
+
+As a [Hack The Box](https://www.hackthebox.eu/) enthusiast, I am committed to constantly learning and growing as a cybersecurity professional. I am also an open-source enthusiast and maintainer, as I have learned a lot from the community and believe in its potential to drive positive change.
+
+## Why Technology?
+
+Technology has the power to shape our world in ways that we can't yet imagine. With the right approach, it can be a force for good that improves our lives and creates a better future for all. As a cybersecurity engineer, I am passionate about using technology ethically and responsibly, to ensure that it is a tool for progress, not a source of harm. My goal is to build a safer, more secure, and more equitable future through technology, one line of code at a time.
+
+## Why CyberSecurity?
+
+Cybersecurity is the unsung hero of the digital age. It's the invisible shield that protects us from the unseen threats lurking in the shadows of the internet. As a cybersecurity engineer, I am constantly thinking about how to stay one step ahead of the bad actors, so that individuals and organizations can have peace of mind when they go online. My goal is to build a future where we can explore the boundless possibilities of technology without having to worry about our security. I love the thrill of the challenge and the satisfaction of knowing that I am making the digital world a safer place for everyone.
+
+## Why Internet Of Things?
+
+The Internet of Things (IoT) is revolutionizing the way we live, work, and play. It's connecting the physical and digital worlds in ways that were once only imaginable in science fiction. As a IoT enthusiast, I am constantly amazed by the potential of this technology to improve our lives and create new opportunities. From smart homes and cities to connected healthcare and transportation, the possibilities are truly endless. I believe that IoT has the potential to change the world for the better, and I am excited to be a part of this technological revolution.
+
+## Why Blockchain?
+
+Blockchain technology is disrupting the traditional financial system in ways that we never thought possible. As a blockchain believer, I am particularly interested in the potential of decentralized finance (DeFi) to give individuals more control over their financial lives. The ability to manage our own assets, without the need for intermediaries, is a game changer. With DeFi, we can take control of our financial future, and achieve greater financial freedom. The transparency and security provided by blockchain technology also have the potential to democratize finance and make it more accessible to all. This is a powerful tool for financial inclusion and a key enabler for a more equitable society.
   
-🗣 Open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+In addition to decentralized finance, blockchain technology also enables the creation of smart contracts. Smart contracts are self-executing contracts with the terms of the agreement written directly into the code. They allow for the automation of complex financial transactions, making them faster, more efficient, and more secure. I am excited about the potential of smart contracts to revolutionize industries such as real estate, insurance, and supply chain management.
 
-"There is no power for change greater than a community discovering what it cares about"(Margaret J. Wheatley)
+Moreover, blockchain technology allows for the creation of monitoring concepts that can provide real-time insights into the performance and health of various systems, this can be applied in various domains such as energy management, logistics or supply chain management.
 
-Why Technology? 💻
-----------------
-When Technology is used ethically, there is nothing more powerfull then a human with a machine. 
+The power of automation is another important aspect that can't be ignored, by using blockchain technology, smart contracts, and monitoring concepts, we can automate many processes, reducing human error and increasing efficiency. This can lead to cost savings, improved productivity, and increased security. Overall, I believe that blockchain technology has the potential to change the world for the better and I am excited to be a part of this technological revolution.
 
-Why CyberSecurity?
-------------------
-I love building the future while protecting the unseen. 👨‍💻 
+As Margaret J. Wheatley said, "There is no power for change greater than a community discovering what it cares about." And as a member of the technology community, I am committed to doing my part to make that change happen.
 
-Why Internet Of Things? 
------------------------
-Many of us, see a smart future. 🏙
-
-Why Blockchain?
----------------
-There is nothing is more valuable then your financial lifecycle. ⛓
-
-Today blockchain give use the possiblity to manage ourself of financial life. As a DeFi Lover, I would say HODL! 
-
-Why Open Source?
--------------
-Simply to one day, visit Mars 🚀
 
 </div>
 
@@ -67,7 +69,7 @@ Here are some ideas to get you started:
   <br/>  
 
 ## _*Languages and Tools:*_
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="33%">
    
 ### _Backend_
 <div align="center">  
