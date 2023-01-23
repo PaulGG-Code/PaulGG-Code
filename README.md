@@ -4,8 +4,8 @@
 
 </div>
 
-  <div align="left" width="50">
-<a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"></img></a>
+<div align="left" width="50">
+  <a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"></img></a>
 </div>
 
 
