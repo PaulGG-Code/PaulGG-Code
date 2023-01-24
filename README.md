@@ -1,8 +1,12 @@
+
+
 <div align="left" width="50">
  
 ![Profile views](https://gpvc.arturio.dev/paulgg-code) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </div>
+
+
 
 <div align="left" width="50">
   <a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"></img></a>
@@ -11,23 +15,56 @@
 
 <hr></hr>
 
+
+
 ## What you will find here  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/eth.png" width="300px" />
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/code.png" width="300px" />
-  <img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/mars.png" width="500px" />
+  <img width="25%" align="right" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/eth.png" width="300px" />
+  <img width="25%" align="center" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/code.png" width="300px" />
+  <img width="25%" align="left" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/mars.png" width="500px" />
 </div>
 
 
 <hr></hr>
 
+
 <div align="justify" width="50">
   
 # Whoami?
 
+```python
+class WhoAmI:
+    user = 'Paul G'
+    current_work = 'IoT Security Evaluator'
+    profile_overview = 'Cybersecurity Engineer and Blockchain enthusiast.'
+    description_profile = 'Passionate about using technology ethically and believe in the power of collaboration and knowledge sharing through open-source.'
+    hobbies = [
+        'Blockchain Programming',
+        'Blockchain Security',
+        'Ski',
+        'Ping Pong',
+        'Travel',
+        'Learn new things'
+    ]
+   
+    def getCountry(self):
+        return "France"
+   
+    def Ambitions(self):
+        Top10HTB()
+        Visit Mars()
+        WorldTravel()
+        EarthSolver()
+        # Assume +10 more awesome ambitions here
+ 
+```
+ 
 A Cybersecurity Engineer and Blockchain enthusiast. Passionate about using technology ethically and believe in the power of collaboration and knowledge sharing through open-source.
 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" /> 
+ 
 As a [Hack The Box](https://www.hackthebox.eu/) enthusiast, I am committed to constantly learning and growing as a cybersecurity professional. I am also an open-source enthusiast and maintainer, as I have learned a lot from the community and believe in its potential to drive positive change.
 
 <details>
@@ -98,6 +135,24 @@ Here are some ideas to get you started:
   <br/>  
 
 ## _*Languages and Tools:*_
+ 
+<!-- 
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+<a href= https://github.com/https://github.com/paulgg-code?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+-->
+ 
 <table><tr><td valign="top" width="33%">
    
 ### _Backend_
@@ -206,6 +261,7 @@ Here are some ideas to get you started:
 -->
 
 
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=gotham&bg_color=00000000)
   
@@ -218,8 +274,16 @@ Here are some ideas to get you started:
 <hr></hr>
 
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<a href = 'https://www.linkedin.com/in/paul-gedeon/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://twitter.com/0xedeon/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://gedeon.herokuapp.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://github.com/paulgg-code'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
+
+
+<!--
 <p align="left">
 <a href="https://www.linkedin.com/in/paul-gedeon/">
   <img align="left" alt="LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -230,7 +294,15 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCmosf_YwWclnsUEnHaCk4XA">
   <img align="left" alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
+-->
 <!-- <a href="https://www.cyberawareness.xyz">
   <img align="left" alt="CyberAwareness" title="CyberAwareness" heigh="32" width="32" src="https://mmheadlines.org/wp-content/uploads/formidable/17/cybersecbadge.png"> -->
 </p>
-  
+
+ <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+ 
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
+</div>
