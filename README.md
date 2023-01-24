@@ -11,7 +11,7 @@
 <div align="center" width="50">
 Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Paulgedeon) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/25ghlr0lso2a18zb8n9pocj75) <br>
 
 </div>
 
