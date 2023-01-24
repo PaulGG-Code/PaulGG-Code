@@ -71,10 +71,12 @@ A Cybersecurity Engineer and Blockchain enthusiast. Passionate about using techn
  
 As a [Hack The Box](https://www.hackthebox.eu/) enthusiast, I am committed to constantly learning and growing as a cybersecurity professional. I am also an open-source enthusiast and maintainer, as I have learned a lot from the community and believe in its potential to drive positive change.
 
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ⚡ `#Expend below sections more details`
+ 
 <details>
   <summary>Why Technology?</summary>
  
-## Tech Tech Tech
+## Tech Tech Tech 🖥️
 
 Technology has the power to shape our world in ways that we can't yet imagine. With the right approach, it can be a force for good that improves our lives and creates a better future for all. As a cybersecurity engineer, I am passionate about using technology ethically and responsibly, to ensure that it is a tool for progress, not a source of harm. My goal is to build a safer, more secure, and more equitable future through technology, one line of code at a time.
 
@@ -83,7 +85,7 @@ Technology has the power to shape our world in ways that we can't yet imagine. W
 <details>
  <summary>Why I chose CyberSecurity?</summary>
  
-##  Hacking Code all the way
+##  Hacking Code all the way 🧑‍💻
 
 Cybersecurity is the unsung hero of the digital age. It's the invisible shield that protects us from the unseen threats lurking in the shadows of the internet. As a cybersecurity engineer, I am constantly thinking about how to stay one step ahead of the bad actors, so that individuals and organizations can have peace of mind when they go online. My goal is to build a future where we can explore the boundless possibilities of technology without having to worry about our security. I love the thrill of the challenge and the satisfaction of knowing that I am making the digital world a safer place for everyone.
 
@@ -92,7 +94,7 @@ Cybersecurity is the unsung hero of the digital age. It's the invisible shield t
 <details>
  <summary>Why I'm interested to the Internet Of Things?</summary>
  
-## Beep Beep Beep 
+## Beep Beep Beep 🤖
 
 The Internet of Things (IoT) is revolutionizing the way we live, work, and play. It's connecting the physical and digital worlds in ways that were once only imaginable in science fiction. As a IoT enthusiast, I am constantly amazed by the potential of this technology to improve our lives and create new opportunities. From smart homes and cities to connected healthcare and transportation, the possibilities are truly endless. I believe that IoT has the potential to change the world for the better, and I am excited to be a part of this technological revolution.
 
