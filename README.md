@@ -1,19 +1,22 @@
-
-
 <div align="left" width="50">
  
 ![Profile views](https://gpvc.arturio.dev/paulgg-code) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </div>
 
-
-
-<div align="left" width="50">
+<div align="right" width="50">
   <a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box"></img></a>
 </div>
 
+<div align="center" width="50">
+Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/Paulgedeon) <br>
+
+</div>
 
 <hr></hr>
+
 
 
 
@@ -30,8 +33,9 @@
 
 
 <div align="justify" width="50">
-  
-# Whoami?
+
+## Whoami?
+
 
 ```python
 class WhoAmI:
@@ -271,6 +275,26 @@ Here are some ideas to get you started:
 </p>
 </div>
 
+
+<div align="center" >
+ 
+
+
+<details>
+  <summary>More stats</summary>
+
+<a  href="https://github.com/PaulGG-code">
+ 
+
+ 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulGG-Code&theme=github_dark" width="70.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulGG-Code&theme=github_dark" width="70.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaulGG-Code&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulGG-Code&theme=github_dark&utcOffset=8" width="32.5%">
+
+</details>
+</a>
+</div> 
 <hr></hr>
 
 
@@ -280,6 +304,13 @@ Here are some ideas to get you started:
 <a href = 'https://gedeon.herokuapp.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://github.com/paulgg-code'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+
+
+<div align="left">  
+ 
+[![telegram badge](https://img.shields.io/badge/Blockchainerr-grey?style=flat&logo=telegram)](https://t.me/Blockchainerr) <br>
+
+</div>
 
 
 
