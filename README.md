@@ -11,7 +11,7 @@
 <div align="center" width="20%">
 Vibing to : 🎧  </strong></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=25ghlr0lso2a18zb8n9pocj75&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=851c10&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=25ghlr0lso2a18zb8n9pocj75&redirect=true) <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ajppncf6fjrtajmreni6aka&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=a54d3d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21ajppncf6fjrtajmreni6aka&redirect=true) <br>
 
 </div>
 
