@@ -1,6 +1,6 @@
 <div align="left" width="50">
- 
-![Profile views](https://gpvc.arturio.dev/paulgg-code) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+![](https://komarev.com/ghpvc/?username=paulgg-code&style=flat-square) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 </div>
 
