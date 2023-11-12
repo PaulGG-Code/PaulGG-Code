@@ -18,8 +18,6 @@ Vibing to : 🎧  </strong></p>
 <hr></hr>
 
 
-
-
 ## What you will find here  
 
 <div align="center">
@@ -263,6 +261,10 @@ Here are some ideas to get you started:
 </a>
 <code><img src="https://img.shields.io/badge/-C++-94h675?style=flat-square&logo=C%2B%2B&logoColor=white%22"></code>
 -->
+
+<a href="https://aspecta.id/u/PaulGG-Code" target="_blank"><img src="https://image-generator.aspecta.id/profile-share-images/generate?env=production&username=PaulGG-Code&image_name=profile&w=1042&h=510&dpr=2" width="1042" /></a>
+
+<hr></hr>
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
