@@ -1,70 +1,164 @@
-<div align="left">
+<h1 align="center">Paul G</h1>
+<h3 align="center">Security Engineer | IoT Security Lead</h3>
 
-![](https://komarev.com/ghpvc/?username=paulgg-code&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulgg-code&style=flat-square" alt="Profile Views" />
+  <a href="https://app.hackthebox.eu/profile/323276"><img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box" /></a>
+</p>
 
-</div>
-
-<div align="right">
-  <a href="https://app.hackthebox.eu/profile/323276">
-    <img src="http://www.hackthebox.eu/badge/image/323276" alt="Hack The Box">
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-
-### Paul G  
-**Security Engineer & IoT Security Lead**  
-Cybersecurity · IoT & Embedded · Blockchain · Automation
-
-</div>
+<p align="center"><em>Cybersecurity · IoT & Embedded · Blockchain · Automation</em></p>
 
 ---
 
-## Overview
+## About Me
 
-- Based in France, working on **IoT, mobile and cloud security**  
-- Leading **IoT security evaluations** for real products (routers, connected devices, embedded systems)  
-- Active on **standards, regulations & methodology** (IoT security, certifications EN18031 - ETSI - EUCC - SBOM, compliance tooling)  
-- Exploring **blockchain / Web3** and **AI-assisted security automation**  
-- Contributor and maintainer of **internal tools, CTF challenges and training content**  
+<table><tr><td valign="top" width="60%">
 
----
+- Based in **France**, working on **IoT, mobile and cloud security**
+- Leading **IoT security evaluations** for real products (routers, connected devices, embedded systems)
+- Active on **standards & regulations** (EN18031, ETSI, EUCC, SBOM)
+- Exploring **blockchain / Web3** and **AI-assisted security automation**
+- Building **CTF challenges & security training** content
+- Making security part of how products are built, shipped, and maintained — not just a checkbox
 
-## What you’ll find here
+</td><td valign="top" width="40%">
 
-<div align="center">
-  <img width="25%" align="right" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/eth.png" alt="Ethereum" />
-  <img width="25%" align="center" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/code.png" alt="Code" />
-  <img width="25%" align="left" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/mars.png" alt="Mars" />
-</div>
+<img src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif" alt="Cybersecurity" width="100%" />
 
-<br clear="both" />
-
-- IoT & embedded security experiments and evaluations  
-- Work around **security standards, guidelines and regulations**  
-- Blockchain and Web3 proof-of-concepts (smart contracts, DeFi mechanics, on-chain automation)  
-- Security tooling, scripts and **automation to support evaluations and pentests**  
-- CTF-style challenges and training material for security teams and trainees  
+</td></tr></table>
 
 ---
 
-## About
+## What You'll Find Here
 
-- Security engineer with a focus on **IoT and connected systems**  
-- Comfortable moving between **hands-on technical work** (reverse engineering, testing, scripting)  
-  and **structured work** (methodologies, reports, standards, EU projects)  
-- Hack The Box enthusiast, using labs and challenges to keep skills sharp  
-- Strong believer in **repeatable security processes** rather than one-off heroics  
+<p align="center">
+  <img width="25%" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/eth.png" alt="Ethereum" />
+  <img width="25%" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/code.png" alt="Code" />
+  <img width="25%" src="https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/mars.png" alt="Mars" />
+</p>
 
-As a [Hack The Box](https://www.hackthebox.eu/) enthusiast, I’m committed to constantly learning and growing as a cybersecurity professional. I’ve learned a lot from the open-source community and believe in its potential to drive practical, positive change in how we build and secure systems.
+| Area | Description |
+|:-----|:------------|
+| **IoT & Embedded** | Security experiments, evaluations for routers, connected devices, embedded systems |
+| **Standards & Regulations** | Work around security guidelines, certifications, and compliance tooling |
+| **Blockchain & Web3** | Smart contracts, DeFi mechanics, on-chain automation PoCs |
+| **Security Tooling** | Scripts and automation to support evaluations and pentests |
+| **CTF & Training** | Challenges and training material for security teams and trainees |
+
+---
+
+## Focus Areas
 
 <details>
-  <summary><strong>View the <code>WhoAmI</code> snippet</strong></summary>
+<summary><strong>Technology</strong></summary>
 
-  
-~~~python
+### Technology and impact
+
+Technology is deeply embedded in our lives and infrastructure. With the right intent and discipline, it can be a force for resilience and progress instead of complexity and risk.
+
+Day to day, I work on making security part of how products are actually built, shipped, and maintained — not just a checkbox. That means combining engineering, standards, and process so that security is systematic and repeatable.
+
+</details>
+
+<details>
+<summary><strong>Cybersecurity</strong></summary>
+
+### Securing the digital world
+
+Cybersecurity is what makes digital transformation sustainable. It's the difference between innovation that lasts and innovation that gets rolled back after the first incident.
+
+I enjoy the mix of technical depth (reverse engineering, pentesting, automation) and higher-level structure (risk, governance, repeatable methodologies). My focus is on building approaches and tooling that teams can actually use, across many products and evaluations.
+
+</details>
+
+<details>
+<summary><strong>Internet of Things</strong></summary>
+
+### Connected systems, real-world impact
+
+IoT is where security becomes tangible: devices in homes, hospitals, factories, cities. A misconfiguration or weak design is no longer just "data risk" — it can affect safety, privacy, and operations.
+
+I work on IoT security evaluations and documentation for connected products, aligning with standards and regulatory expectations and helping manufacturers understand both the technical and practical sides of securing their devices. I also build hands-on demos and CTFs to train others on how these systems can be attacked and defended.
+
+</details>
+
+<details>
+<summary><strong>Blockchain</strong></summary>
+
+### Why blockchain matters
+
+Blockchain sits at the intersection of cryptography, economics and software engineering. I'm particularly interested in:
+
+- Decentralized finance (DeFi) mechanics and the security assumptions behind them
+- Smart contracts that automate interactions and enforce rules transparently
+- On-chain components for tracking software artifacts, SBOMs or device identities
+
+Beyond classic DeFi, I explore how blockchain and smart contracts can be used for **auditability, automation and transparent coordination** — especially when combined with IoT and security use cases.
+
+</details>
+
+> "There is no power for change greater than a community discovering what it cares about."
+> — Margaret J. Wheatley
+
+---
+
+## Languages & Tools
+
+<table>
+  <tr>
+    <td valign="top" align="center"><strong>Backend</strong><br/><br/><img src="images/linux.svg" alt="Linux" height="40" /> <img src="images/python.svg" alt="Python" height="40" /> <img src="images/nodejs.svg" alt="Node.js" height="40" /> <img src="images/ethereum.svg" alt="Solidity" height="40" /> <img src="images/cpp.svg" alt="C++" height="40" /> <img src="images/mysql.svg" alt="MySQL" height="40" /></td>
+    <td valign="top" align="center"><strong>DevOps</strong><br/><br/><img src="images/linux.svg" alt="Linux" height="40" /> <img src="images/github.svg" alt="Git" height="40" /> <img src="images/bash.svg" alt="Bash" height="40" /> <img src="images/npm.svg" alt="npm" height="40" /> <img src="images/ipfs.svg" alt="IPFS" height="40" /></td>
+    <td valign="top" align="center"><strong>Frontend</strong><br/><br/><img src="images/react.svg" alt="React" height="40" /> <img src="images/html.svg" alt="HTML5" height="40" /> <img src="images/javascript.svg" alt="JavaScript" height="40" /></td>
+    <td valign="top" align="center"><strong>Technologies</strong><br/><br/><img src="images/bluetooth.svg" alt="BLE" height="40" /> <img src="images/nfc.svg" alt="NFC" height="40" /> <img src="images/cisco.svg" alt="Cisco" height="40" /> <img src="images/rf.gif" alt="RF" height="40" /></td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=gotham&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PaulGG-Code&theme=gotham&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php" alt="Top languages" />
+</p>
+
+<details>
+<summary><strong>More breakdown</strong></summary>
+
+<p align="center">
+  <a href="https://github.com/PaulGG-code">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulGG-Code&theme=github_dark" width="70%" alt="Profile details" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PaulGG-code">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulGG-Code&theme=github_dark" width="70%" alt="Repos per language" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PaulGG-code">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaulGG-Code&theme=github_dark" width="32%" alt="Most commit language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulGG-Code&theme=github_dark&utcOffset=8" width="32%" alt="Productive time" />
+  </a>
+</p>
+
+</details>
+
+---
+
+## WhoAmI
+
+<details>
+<summary><strong>View the <code>WhoAmI</code> snippet</strong></summary>
+
+```python
 class WhoAmI:
     user = 'Paul'
     current_work = 'Senior IoT Security Evaluator and Blockchain Manager'
@@ -94,179 +188,31 @@ class WhoAmI:
         BridgeResearchAndRealWorld()
         KeepLearningEveryYear()
         # + many more long-term projects in security and tech
-~~~
-  
+```
+
 </details>
 
 ---
 
-## Focus areas
+## Connect
 
-<details>
-  <summary><strong>Technology</strong></summary>
-
-### Technology and impact
-
-Technology is deeply embedded in our lives and infrastructure. With the right intent and discipline, it can be a force for resilience and progress instead of complexity and risk.
-
-Day to day, I work on making security part of how products are actually built, shipped, and maintained — not just a checkbox. That means combining engineering, standards, and process so that security is systematic and repeatable.
-
-</details>
-
-<details>
-  <summary><strong>Cybersecurity</strong></summary>
-
-### Securing the digital world
-
-Cybersecurity is what makes digital transformation sustainable. It’s the difference between innovation that lasts and innovation that gets rolled back after the first incident.
-
-I enjoy the mix of technical depth (reverse engineering, pentesting, automation) and higher-level structure (risk, governance, repeatable methodologies). My focus is on building approaches and tooling that teams can actually use, across many products and evaluations.
-
-</details>
-
-<details>
-  <summary><strong>Internet of Things</strong></summary>
-
-### Connected systems, real-world impact
-
-IoT is where security becomes tangible: devices in homes, hospitals, factories, cities. A misconfiguration or weak design is no longer just “data risk” — it can affect safety, privacy, and operations.
-
-I work on IoT security evaluations and documentation for connected products, aligning with standards and regulatory expectations and helping manufacturers understand both the technical and practical sides of securing their devices. I also build hands-on demos and CTFs to train others on how these systems can be attacked and defended.
-
-</details>
-
-<details>
-  <summary><strong>Blockchain</strong></summary>
-
-### Why blockchain matters
-
-Blockchain sits at the intersection of cryptography, economics and software engineering. I’m particularly interested in:
-
-- Decentralized finance (DeFi) mechanics and the security assumptions behind them  
-- Smart contracts that automate interactions and enforce rules transparently  
-- On-chain components for tracking software artifacts, SBOMs or device identities  
-
-Beyond classic DeFi, I explore how blockchain and smart contracts can be used for **auditability, automation and transparent coordination** — especially when combined with IoT and security use cases.
-
-</details>
-
-> “There is no power for change greater than a community discovering what it cares about.”  
-> — Margaret J. Wheatley  
-
----
-
-## Languages & Tools
-
-<div align="center">
-
-### Core stack
-
-<table>
-  <tr>
-    <td valign="top" align="center">
-      <strong>Backend</strong><br/><br/>
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/linux.svg" alt="Linux" height="40" />
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" />
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/ethereum.svg" alt="Solidity / Ethereum" height="40" />
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/trufflesuite/truffle-core/master/assets/logo.png" alt="Truffle" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/cpp.svg" alt="C++" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/mysql.svg" alt="MySQL" height="40" />
-    </td>
-    <td valign="top" align="center">
-      <strong>DevOps</strong><br/><br/>
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/linux.svg" alt="Linux" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/github.svg" alt="Git / GitHub" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/bash.svg" alt="Bash" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/npm.svg" alt="npm" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/ipfs.svg" alt="IPFS" height="40" />
-    </td>
-    <td valign="top" align="center">
-      <strong>Frontend</strong><br/><br/>
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" />
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" />
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" />
-    </td>
-    <td valign="top" align="center">
-      <strong>Technologies</strong><br/><br/>
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/bluetooth.svg" alt="BLE" height="40" />
-      <img style="margin: 10px" src="https://img.icons8.com/color/452/zigbee.png" alt="Zigbee" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/nfc.svg" alt="NFC" height="40" />
-      <img style="margin: 10px" src="https://e7.pngegg.com/pngimages/223/960/png-clipart-radio-frequency-identification-computer-icons-radiofrequency-identification-rim-share-icon.png" alt="RF" height="40" />
-      <img style="margin: 10px" src="https://github.com/PaulGG-Code/PaulGG-Code/blob/main/images/cisco.svg" alt="Cisco / Networking" height="40" />
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_WiFi.svg/1280px-Logo_WiFi.svg.png" alt="WiFi" height="40" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## GitHub stats
-
-<div align="center">
-
-<img
-  alt="GitHub stats"
-  src="https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=gotham&bg_color=00000000"
-/>
-
-<br/>
-
-<img
-  alt="Top languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulgg-code&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php"
-/>
-
-</div>
-
-<div align="center">
-
-<details>
-  <summary><strong>More breakdown</strong></summary>
-
-  <a href="https://github.com/PaulGG-code">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PaulGG-Code&theme=github_dark" width="70.5%" alt="Profile details">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulGG-Code&theme=github_dark" width="70.5%" alt="Repos per language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PaulGG-Code&theme=github_dark" width="32.5%" alt="Most commit language">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulGG-Code&theme=github_dark&utcOffset=8" width="32.5%" alt="Productive time">
-  </a>
-
-</details>
-
-</div>
-
----
-
-## Contact
-
-<a href="https://www.linkedin.com/in/paul-gedeon/">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/0xedeon/">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter"/>
-</a>
-<a href="https://gedeon.herokuapp.com/">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" alt="Portfolio"/>
-</a>
-<a href="https://github.com/paulgg-code">
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-[![telegram badge](https://img.shields.io/badge/Blockchainerr-grey?style=flat&logo=telegram)](https://t.me/Blockchainerr)
+<p align="center">
+  <a href="https://www.linkedin.com/in/paul-gedeon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/0xedeon/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter" /></a>
+  <a href="https://t.me/Blockchainerr"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="Telegram" /></a>
+  <a href="https://github.com/paulgg-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" /></a>
+  <a href="https://gedeon.herokuapp.com/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=fff" alt="Portfolio" /></a>
+  <a href="https://app.hackthebox.eu/profile/323276"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000" alt="Hack The Box" /></a>
+</p>
 
 ---
 
 <details>
-  <summary><strong>Off-duty</strong></summary>
+<summary><strong>Off-duty</strong></summary>
 
-  
 **Currently listening**
 
-[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=flat&logo=spotify&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](#)
 
 **A bit of developer humor**
 
@@ -275,5 +221,5 @@ Beyond classic DeFi, I explore how blockchain and smart contracts can be used fo
 </details>
 
 <!--
-**PaulGG-Code/PaulGG-Code** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+**PaulGG-Code/PaulGG-Code** is a special repository because its `README.md` appears on your GitHub profile.
 -->
