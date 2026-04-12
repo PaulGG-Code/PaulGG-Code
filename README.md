@@ -4,26 +4,18 @@
 </div>
 
 <!-- Badges Row -->
-<div align=”center”>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=paulgg-code&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
-  &nbsp;
-  [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000)](https://app.hackthebox.eu/profile/323276)
-  &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/paul-gedeon/)
-  &nbsp;
-  [![Twitter](https://img.shields.io/badge/@0xedeon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff)](https://twitter.com/0xedeon/)
-  &nbsp;
-  [![Telegram](https://img.shields.io/badge/Blockchainerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/Blockchainerr)
-
-</div>
+<p align=”center”>
+  <img src=”https://komarev.com/ghpvc/?username=paulgg-code&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS” alt=”Profile Views” />
+  <a href=”https://app.hackthebox.eu/profile/323276”><img src=”https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000” alt=”Hack The Box” /></a>
+  <a href=”https://www.linkedin.com/in/paul-gedeon/”><img src=”https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff” alt=”LinkedIn” /></a>
+  <a href=”https://twitter.com/0xedeon/”><img src=”https://img.shields.io/badge/@0xedeon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff” alt=”Twitter” /></a>
+  <a href=”https://t.me/Blockchainerr”><img src=”https://img.shields.io/badge/Blockchainerr-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff” alt=”Telegram” /></a>
+</p>
 
 <!-- Typing SVG -->
-<div align=”center”>
-  <a href=”https://git.io/typing-svg”>
-    <img src=”https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=IoT+%7C+Embedded+%7C+Cloud+Security;Blockchain+%7C+Smart+Contracts+%7C+DeFi;Standards+%7C+EN18031+%7C+ETSI+%7C+EUCC;CTF+Builder+%7C+Security+Trainer+%7C+Tool+Maker” alt=”Typing SVG” />
-  </a>
-</div>
+<p align=”center”>
+  <img src=”https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=30&lines=IoT+%7C+Embedded+%7C+Cloud+Security;Blockchain+%7C+Smart+Contracts+%7C+DeFi;Standards+%7C+EN18031+%7C+ETSI+%7C+EUCC;CTF+Builder+%7C+Security+Trainer+%7C+Tool+Maker” alt=”Typing SVG” />
+</p>
 
 <br/>
 
@@ -31,26 +23,20 @@
 
 ## About Me
 
-<img align=”right” width=”300” src=”https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif” alt=”Cybersecurity” />
+<table><tr><td valign=”top” width=”60%”>
 
-```yaml
-name: Paul G
-location: France
-role: Senior IoT Security Evaluator & Blockchain Manager
+- Based in **France**, working on **IoT, mobile and cloud security**
+- Leading **IoT security evaluations** for real products (routers, connected devices, embedded systems)
+- Active on **standards & regulations** (EN18031, ETSI, EUCC, SBOM)
+- Exploring **blockchain / Web3** and **AI-assisted security automation**
+- Building **CTF challenges & security training** content
+- Making security part of how products are built, shipped, and maintained — not just a checkbox
 
-focus:
-  - IoT, mobile and cloud security
-  - Leading IoT security evaluations for real products
-  - Standards & regulations (EN18031, ETSI, EUCC, SBOM)
-  - Blockchain / Web3 & AI-assisted security automation
-  - CTF challenges & security training
+</td><td valign=”top” width=”40%”>
 
-approach: >
-  Making security part of how products are built,
-  shipped, and maintained — not just a checkbox.
-```
+<img src=”https://raw.githubusercontent.com/paulgg-code/paulgg-code/main/images/cybersecurity.gif” alt=”Cybersecurity” width=”100%” />
 
-<br clear=”both” />
+</td></tr></table>
 
 ---
 
@@ -193,7 +179,7 @@ Beyond classic DeFi, I explore how blockchain and smart contracts can be used fo
 
 <!-- Stats + Streak side by side -->
 <img width=”49%” alt=”GitHub stats” src=”https://github-readme-stats.vercel.app/api?username=PaulGG-Code&show_icons=true&theme=gotham&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true” />
-<img width=”49%” alt=”GitHub Streak” src=”https://github-readme-streak-stats.herokuapp.com/?user=PaulGG-Code&theme=gotham&hide_border=true&background=00000000” />
+<img width=”49%” alt=”GitHub Streak” src=”https://streak-stats.demolab.com/?user=PaulGG-Code&theme=gotham&hide_border=true&background=00000000” />
 
 <br/><br/>
 
@@ -275,21 +261,14 @@ class WhoAmI:
 
 ## Connect
 
-<div align=”center”>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/paul-gedeon/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff)](https://twitter.com/0xedeon/)
-&nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/Blockchainerr)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/paulgg-code)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=fff)](https://gedeon.herokuapp.com/)
-&nbsp;
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000)](https://app.hackthebox.eu/profile/323276)
-
-</div>
+<p align=”center”>
+  <a href=”https://www.linkedin.com/in/paul-gedeon/”><img src=”https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff” alt=”LinkedIn” /></a>
+  <a href=”https://twitter.com/0xedeon/”><img src=”https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=fff” alt=”Twitter” /></a>
+  <a href=”https://t.me/Blockchainerr”><img src=”https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff” alt=”Telegram” /></a>
+  <a href=”https://github.com/paulgg-code”><img src=”https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff” alt=”GitHub” /></a>
+  <a href=”https://gedeon.herokuapp.com/”><img src=”https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=aboutdotme&logoColor=fff” alt=”Portfolio” /></a>
+  <a href=”https://app.hackthebox.eu/profile/323276”><img src=”https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000” alt=”Hack The Box” /></a>
+</p>
 
 ---
 
@@ -297,13 +276,13 @@ class WhoAmI:
   <summary><strong>Off-duty</strong></summary>
 
   
-**Currently listening**
-
-[![Spotify](https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](#)
-
-**A bit of developer humor**
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<strong>Currently listening</strong>
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+<br/><br/>
+<strong>A bit of developer humor</strong>
+<br/><br/>
+<img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card" />
 
 </details>
 
